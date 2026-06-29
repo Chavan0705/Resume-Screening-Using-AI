@@ -1,0 +1,39 @@
+# Virtual environments
+.venv/
+**/.venv/
+venv/
+**/venv/
+ENV/
+env/
+
+# Python cache and files
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Java / Maven target directories
+target/
+**/target/
+*.class
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
